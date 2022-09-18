@@ -1,0 +1,5 @@
+name: LandsBackup
+version: '${project.version}'
+main: ru.powerlands.back.LandsBackup
+authors: [ PowerLands ]
+website: vk.com/PowerLands
