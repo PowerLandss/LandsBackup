@@ -3,3 +3,9 @@ version: '${project.version}'
 main: ru.powerlands.back.LandsBackup
 authors: [ PowerLands ]
 website: vk.com/PowerLands
+commands:
+  landsbackup:
+    aliases:
+      - back
+      - lback
+      - backup
